@@ -1,0 +1,36 @@
+.write{
+    padding-top: 50px;
+
+}
+
+.writeForm{
+    position: relative;
+    font-size: 30px;
+    border: 30px;
+    border-color: rgb(255, 220, 80) ;
+}
+
+.writeFormGroup{
+    margin-left: 150px;
+    display: flex;
+    align-items: center;
+}
+
+.writeInput{
+    font-size: 30px;
+    border: rgb(255, 213, 0);
+    padding: 20px;
+    width: 500px;
+    font-size: 15px;
+}
+
+.writeSubmit{
+    position: center;
+    top: 20px;
+    right: 50px;
+    color: rgb(50, 164, 52);
+    background-color: rgb(56, 42, 165);
+    padding: 10px;
+    border-radius: 35px;
+    cursor: pointer;
+}
